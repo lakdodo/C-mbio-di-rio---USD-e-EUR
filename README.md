@@ -10,8 +10,9 @@
 
 - [Sobre](#-Sobre)
 - [Tecnologias](#-Tecnologias)
-
-
+- [Preparando o Ambiente](#-Preparando-o-Ambiente)
+- [Uso](#-Uso)
+- [Contato](#-Contato)
 
 ## Sobre
 
